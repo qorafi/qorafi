@@ -1,4 +1,4 @@
-# QoraFi Bondig Curve Protocol
+# QoraFi Protocol
 
 <img width="2000" height="600" alt="curve" src="https://github.com/user-attachments/assets/a5f84f63-a804-4aca-a1dd-c44c6897ceeb" />
 
@@ -11,7 +11,7 @@
 
 The QoraFi Protocol introduces a decentralized, secure, and transparent ecosystem for the QoraFi token, encompassing liquidity bootstrapping, staking, and stablecoin minting. The system is architected in a modular fashion, separating core business logic from security and oracle services to enhance robustness and auditability. The protocol consists of several primary smart contracts that work in concert to create a resilient and feature-rich DeFi ecosystem.
 
-## Bondig Curve System Architecture
+## System Architecture
 
 The protocol is designed with a clear separation of concerns, dividing responsibilities among specialized, interoperable smart contracts. This modular design enhances security, simplifies auditing, and allows for safer future upgrades.
 
