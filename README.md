@@ -1,17 +1,15 @@
 # QoraFi Protocol
-
+<p align="center">
 <img width="2000" height="600" alt="curve" src="https://github.com/user-attachments/assets/a5f84f63-a804-4aca-a1dd-c44c6897ceeb" />
-
+</p>
 
 **A decentralized, secure, and transparent ecosystem for liquidity bootstrapping, staking, and stablecoin minting for the QoraFi token.**
 
 ---
 <p align="center">
-<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/1ff3c786-454c-4bf9-9e19-ad0798a93d65" />
+<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/e4c152c8-a633-4511-a30f-3cec85e596f1" />
+
 </p>
-
-
-
 ## Abstract
 
 The QoraFi Protocol introduces a decentralized, secure, and transparent ecosystem for the QoraFi token, encompassing liquidity bootstrapping, staking, and stablecoin minting. The system is architected in a modular fashion, separating core business logic from security and oracle services to enhance robustness and auditability. The protocol consists of several primary smart contracts that work in concert to create a resilient and feature-rich DeFi ecosystem.
