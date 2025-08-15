@@ -6,8 +6,10 @@
 **A decentralized, secure, and transparent ecosystem for liquidity bootstrapping, staking, and stablecoin minting for the QoraFi token.**
 
 ---
+<p align="center">
+<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/1ff3c786-454c-4bf9-9e19-ad0798a93d65" />
+</p>
 
-<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/96f8028c-494a-4012-8486-4aadf5712a24" />
 
 
 ## Abstract
