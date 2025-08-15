@@ -7,7 +7,8 @@
 
 ---
 <p align="center">
-<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/e4c152c8-a633-4511-a30f-3cec85e596f1" />
+<img width="512" height="702" alt="download (1)" src="https://github.com/user-attachments/assets/33e280af-5109-46e1-95bc-75d36dd647e5" />
+
 
 </p>
 ## Abstract
